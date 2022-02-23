@@ -22,7 +22,7 @@ From now on I will be using **Path** for absolute pathh of exe files.
 ## Training Data
 
 For training a boosted cascade of weak classifiers we need 2 types of images positive and negative images. Positive images contain the object whereas negative images do not contain the object. Please refer image (a) for reference
-![enter image description here](https://gitlab.com/project-kosmos/scratchpad/shrutika/shrutika-scratchpad/-/raw/main/objectDetection/hassClassifier/images/combined.JPG)
+![enter image description here](https://github.com/shrutikapoyrekar/objectDetectionHaarCascade/blob/main/images/combined.JPG?raw=true)
 Our dataset structure will be as follows:
   -postives
   -negatives
